@@ -7,5 +7,5 @@ public abstract class ItemBibliotecaDigital {
         this.autor = autor;
     }
 
-    public abstract void descricao();
+    public abstract String descricao();
 }
