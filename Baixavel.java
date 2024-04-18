@@ -1,3 +1,3 @@
 public interface Baixavel {
-    public abstract void baixar();
+    void baixar();
 }
